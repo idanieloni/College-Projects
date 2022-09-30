@@ -1,0 +1,6 @@
+
+ID:1  Name:shampoo  Price:2.99  Count:8  
+ID:2  Name:tooth brush  Price:2.89  Count:3  
+ID:3  Name:paste  Price:1.99  Count:10  
+ID:4  Name:towel  Price:3.99  Count:6  
+ID:5  Name:bath mat  Price:5.99  Count:2  
